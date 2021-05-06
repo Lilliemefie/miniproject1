@@ -10,8 +10,7 @@ body {
 
 header,
 footer{
-    width: 100%; 
-    position: fixed;        
+    width: 100%;       
     background: yellowgreen;
     padding: 10px;
     color: yellow;
@@ -21,6 +20,7 @@ footer{
 header{
     top:0px;
     height: 120x;
+    position: fixed;  
     
 }
 footer{
