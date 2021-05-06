@@ -26,6 +26,7 @@ header{
 footer{
     bottom:0px;
     font-size: small;  
+    position: relative;
 }
 
 nav a{
@@ -43,7 +44,7 @@ img {
 }
 
 section {
-    padding:140px 100px 60px;
+    padding:200px 100px 60px;
 }
 
 #sec2 {
