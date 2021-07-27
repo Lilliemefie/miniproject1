@@ -58,7 +58,8 @@ If you have any questions or want to make a contribution please reach out to us:
 
 <br>
 <p float="left">
-<img src="https://avatars.githubusercontent.com/u/83324906?v=4" alt="GitHub profile image" width="150">
+<a href="https://github.com/agonzalvez">
+<img src="https://avatars.githubusercontent.com/u/83324906?v=4"  alt="GitHub profile image" width="150"></a>
 <img src="https://avatars.githubusercontent.com/u/82185621?v=4" alt="GitHub profile image" width="150">
 <img src="https://avatars.githubusercontent.com/u/80847247?v=4" alt="GitHub profile image" width="150">
 <img src="https://avatars.githubusercontent.com/u/82494755?v=4" alt="GitHub profile image" width="150">
