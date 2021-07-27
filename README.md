@@ -60,9 +60,12 @@ If you have any questions or want to make a contribution please reach out to us:
 <p float="left">
 <a href="https://github.com/agonzalvez">
 <img src="https://avatars.githubusercontent.com/u/83324906?v=4"  alt="GitHub profile image" width="150"></a>
-<img src="https://avatars.githubusercontent.com/u/82185621?v=4" alt="GitHub profile image" width="150">
-<img src="https://avatars.githubusercontent.com/u/80847247?v=4" alt="GitHub profile image" width="150">
-<img src="https://avatars.githubusercontent.com/u/82494755?v=4" alt="GitHub profile image" width="150">
+<a href="https://github.com/henryparras24">
+<img src="https://avatars.githubusercontent.com/u/82185621?v=4" alt="GitHub profile image" width="150"></a>
+<a href="https://github.com/MarissaNancy">
+<img src="https://avatars.githubusercontent.com/u/80847247?v=4" alt="GitHub profile image" width="150"></a>
+<a href="https://github.com/lilliemefie">
+<img src="https://avatars.githubusercontent.com/u/82494755?v=4" alt="GitHub profile image" width="150"></a>
 
 </p>
 <br>
@@ -73,7 +76,7 @@ If you have any questions or want to make a contribution please reach out to us:
 
 * Nancy Gonzalez [GitHub](https://github.com/MarissaNancy) || Email: nancygonzalez7@yahoo.com
 
-* Lillie Jirapattanalak [GitHub](https://github.com/lilliemefie/) || Email: lilliejira@gmail.com
+* Lillie Jirapattanalak [GitHub](https://github.com/lilliemefie) || Email: lilliejira@gmail.com
 
 <br>
 No copyright intended for educational purposes only
